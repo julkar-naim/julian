@@ -32,7 +32,6 @@ MarkupSafe==3.0.2
 mesop==0.14.1
 msgpack==1.1.0
 multidict==6.1.0
-numpy==2.2.2
 ordered-set==4.1.0
 orjson==3.10.15
 packaging==24.2
